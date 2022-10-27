@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "png.h"
+#include "libpng-1.6.35/png.h"
 
  /* The png_jmpbuf() macro, used in error handling, became available in
   * libpng version 1.0.6.  If you want to be able to run your code with older

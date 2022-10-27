@@ -8,7 +8,7 @@ PNGMAJ = 0
 PNGMIN = 1.2.5
 PNGVER = $(PNGMAJ).$(PNGMIN)
 
-CC=/home/matthewyfong/CSE_5472/AFL-2.57b/gcc
+CC=/home/vagrant/AFL-2.57b/gcc
 
 # where "make install" puts libpng12.a, libpng12.so*,
 # libpng12/png.h and libpng12/pngconf.h
